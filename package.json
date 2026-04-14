@@ -1,7 +1,7 @@
 {
   "name": "zyplo-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express backend for Zyplo, powering authentication, workspaces, tasks, time tracking, billing, GitHub integration, and realtime updates.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
